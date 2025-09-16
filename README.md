@@ -1,5 +1,4 @@
-**Employee Management System
-**
+**Employee Management System**
 An Employee Management System built with Java (Spring Boot) for the backend, React.js for the frontend, and MySQL as the database. 
 This project helps organizations manage employee details, roles, and records efficiently with a user-friendly interface.
 
@@ -12,16 +11,15 @@ This project helps organizations manage employee details, roles, and records eff
 🔒 Authentication & Authorization (Admin/Employee login)
 📊 Dashboard with key employee stats
 
-**🛠️ Tech Stack
-**
+**🛠️Tech Stack**
 Frontend: React.js, Axios, Bootstrap / TailwindCSS
 Backend: Java (Spring Boot), RESTful APIs
 Database: MySQL
 Tools: Maven, Postman, VS Code, IntelliJ / Eclipse
 
-**⚙️ Installation & Setup
+**⚙️ Installation & Setup**
 
-1️⃣ Clone the Repository**
+**1️⃣ Clone the Repository**
 git clone https://github.com/your-username/employee-management-system.git
 cd employee-management-system
 
